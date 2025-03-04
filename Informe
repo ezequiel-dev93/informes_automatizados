@@ -1,4 +1,4 @@
-#Generador de Informes Automatizados
+<h1>Generador de Informes Automatizados</h1>
 Este proyecto es una aplicación en Python y Streamlit que permite a los usuarios crear informes personalizados, plantillas y archivos Excel de manera automatizada.
 La herramienta está diseñada para facilitar la creación de documentos, gestionando datos de manera flexible y profesional. 
 Ideal para informes de gastos, presupuestos o cualquier tipo de documento que requiera formatos personalizados.
