@@ -26,11 +26,11 @@ Ideal para informes de gastos, presupuestos o cualquier tipo de documento que re
 
 ~~~ 
 Nota: Instalación adicional de pdfkit
-Para exportar a PDF, pdfkit necesita que tengas instalado wkhtmltopdf, un programa externo. Aquí tienes cómo instalarlo:
-
+Para exportar a PDF, pdfkit necesita que tengas instalado wkhtmltopdf, un programa externo.
+ Aquí tienes cómo instalarlo:
 1. Windows :
-* Descarga el instalador de wkhtmltopdf para Windows.
-* Instálalo y añade la ruta de wkhtmltopdf.exe al PATH del sistema para que pdfkit lo reconozca.
+- Descarga el instalador de wkhtmltopdf para Windows.
+- Instálalo y añade la ruta de wkhtmltopdf.exe al PATH del sistema para que pdfkit lo reconozca.
 
 2. MacOS: brew install wkhtmltopdf
 
