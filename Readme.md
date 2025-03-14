@@ -19,7 +19,7 @@ Este proyecto es una aplicación en Python y Streamlit que permite a los usuario
 ## Instalación
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/ezequiel-dev93/Generador-de-Informes-Automatizados.git
+   git clone https://github.com/ezequiel-dev93/informes_automatizados.git
 2. Navega al directorio del proyecto:
    ```bash
    cd Generador-de-Informes-Automatizados
