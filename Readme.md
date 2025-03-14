@@ -22,7 +22,7 @@ Este proyecto es una aplicación en Python y Streamlit que permite a los usuario
    git clone https://github.com/ezequiel-dev93/informes_automatizados.git
 2. Navega al directorio del proyecto:
    ```bash
-   cd Generador-de-Informes-Automatizados
+   cd informes_automatizados
 
 3. Crea un entorno virtual (opcional pero recomendado):
    - Si no tienes instalado virtualenv, instálalo primero:
