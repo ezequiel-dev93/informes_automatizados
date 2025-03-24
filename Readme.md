@@ -47,7 +47,8 @@ Este proyecto es una aplicación en Python y Streamlit que permite a los usuario
 
 ~~~ 
 Nota: Instalación adicional de pdfkit
-Para exportar a PDF, pdfkit necesita que tengas instalado wkhtmltopdf, un programa externo. Aquí tienes cómo instalarlo:
+Para exportar a PDF, pdfkit necesita que tengas instalado wkhtmltopdf, un programa externo.
+Aquí tienes cómo instalarlo:
 
 1. Windows :
 * Descarga el instalador de wkhtmltopdf para Windows.
